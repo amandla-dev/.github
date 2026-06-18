@@ -222,7 +222,7 @@ Before contributing:
 
 - Main website: https://safe-hub.org/
 - About Safe-Hub: https://safe-hub.org/about-us/
-- Safe-Hub Portal: https://portal-stage.safe-hub.online/
+- Safe-Hub Portal: https://safe-hub.online/
 
 ## Maintainers
 
